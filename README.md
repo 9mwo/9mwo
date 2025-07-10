@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm connector 👋</h1>
 
 <p align="center">
-  <strong>19 years old • Fullstack Dev • Based in Boston, MA 🇺🇸</strong><br>
+  <strong>19 years old • Fullstack Dev • Based in Boston, MA</strong><br>
   I like building clean websites, apps, and cool user interfaces.
 </p>
 
@@ -35,9 +35,10 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" />
   <img src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-AHK-334455?style=flat&logo=autohotkey&logoColor=white" height="30" />
 </p>
 
-### 🎛 GUI & App Dev
+### 🎛 GUI
 <p align="left">
   <img src="https://img.shields.io/badge/-Guna2_UI-informational?style=flat&logo=windows&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Siticone-informational?style=flat&logo=windows&logoColor=white" height="30" />
