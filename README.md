@@ -5,17 +5,15 @@
   I like building clean websites, apps, and cool user interfaces.
 </p>
 
-<p align="center">
-  🕒 Local Time: <img src="https://worldtimeapi.org/api/timezone/America/New_York.svg" alt="Boston Time" />
-</p>
-
 ---
 
 ## 🧠 About Me
 
+- 📍 I'm based in **Boston, Massachusetts**
 - 💻 I mainly work on **front-end** stuff, but I also do **back-end** and app development.
-- 🧪 Learning more about **C#**, **C++**, and **IMGUI**.
-- 🎨 I also use **Photoshop** and **Blender** for design and 3D stuff, like weapon creation for FiveM and more.
+- 🧪 Currently learning more about **C#**, **C++**, and **IMGUI**
+- 🎨 I use **Photoshop** and **Blender** for 3D design like weapons for FiveM
+- 🧠 **Hobbies**: Studying, going to the gym, programming, and watching TV
 
 ---
 
