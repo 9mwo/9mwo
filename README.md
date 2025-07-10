@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 My Skills
+## 💻 My Skills
 
 ### 💻 Front-End
 <p align="left">
@@ -55,7 +55,7 @@
 ## 🎯 Current Projects
 
 - 🧩 **Portfolio + Private Bio Link Site**  
-  Working on a personal site that shows off my work and acts as a private bio/hub.
+  A portfolio website to show my projects and also a private bio website for friends.
 
 - 💥 **vWeaponToolkit Remake**  
   Remaking and improving the 2023 version of the vWeaponToolkit.
@@ -77,7 +77,7 @@
 ## 📚 Learning Now
 
 - C# and C++ to continue to expand my app development skills  
-- imGUI to further grow my graphical UI skills
+- imGUI to further grow my GUI skills
 
 ---
 
