@@ -31,8 +31,8 @@
 
 ### 🧰 Back-End & General
 <p align="left">
-  <img src="https://img.shields.io/badge/-NODE.JS-5FA04E?style=flat&logo=nodedotjs&logoColor=white" width="40" height="40" />
-  <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat&logo=python&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-NODE.JS-5FA04E?style=flat&logo=nodedotjs&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat&logo=python&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-AHK-334455?style=flat&logo=autohotkey&logoColor=white" height="30" />
