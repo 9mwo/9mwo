@@ -21,18 +21,18 @@
 
 ### 💻 Front-End
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=gray" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-REACT-61DAFB?style=flat&logo=react&logoColor=gray" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white" width="40" height="40" />
 </p>
 
 ### 🧰 Back-End & General
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-NODE.JS-5FA04E?style=flat&logo=nodedotjs&logoColor=white" width="40" height="40" />
+  <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat&logo=python&logoColor=white" width="40" height="40" />
   <img src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-AHK-334455?style=flat&logo=autohotkey&logoColor=white" height="30" />
